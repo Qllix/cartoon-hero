@@ -1,0 +1,24 @@
+		body{
+			background-color: black;
+		}
+		span{
+			font-style: italic;
+		}
+		h2 span{
+			text-decoration: line-through;
+		}
+		h1{
+			color: orange;
+			font-size: 90px;
+			text-decoration: overline;
+		}
+		h2{
+			color: green;
+			font-size: 22px;
+		}
+		#first{
+			font-size: 88px;
+		}
+		.small{
+			font-size: 12px;
+		}
